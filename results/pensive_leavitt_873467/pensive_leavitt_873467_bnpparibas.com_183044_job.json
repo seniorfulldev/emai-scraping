@@ -1,0 +1,20 @@
+{
+    "engine": "bing",
+    "modifier": null,
+    "domain": "bnpparibas.com",
+    "limit": 50,
+    "greedy": true,
+    "fuzzy": false,
+    "start_time": "2021-11-11 02:11:03",
+    "end_time": "2021-11-11 02:11:13",
+    "duration": "10",
+    "results": {
+        "emails": [
+            "liability.management@bnpparibas.com",
+            "new.york.syndicate@bnpparibas.com",
+            "dl.us.liability.management@us.bnpparibas.com"
+        ],
+        "processed": 18
+    },
+    "project": "pensive_leavitt_873467"
+}

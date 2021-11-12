@@ -1,0 +1,15 @@
+{
+    "limit": 50,
+    "modifier": null,
+    "engine": "bing",
+    "greedy": false,
+    "domain": "us.bnpparibas.com",
+    "start_time": "2021-11-11 02:11:13",
+    "end_time": "2021-11-11 02:11:15",
+    "duration": "1",
+    "results": {
+        "emails": [],
+        "processed": 5
+    },
+    "project": "pensive_leavitt_873467"
+}

@@ -1,0 +1,16 @@
+{
+    "engine": "bing",
+    "modifier": null,
+    "domain": "bnpparibas.com",
+    "limit": 50,
+    "greedy": true,
+    "fuzzy": false,
+    "start_time": "2021-11-11 02:16:03",
+    "end_time": "2021-11-11 02:16:05",
+    "duration": "1",
+    "results": {
+        "emails": [],
+        "processed": 5
+    },
+    "project": "xenodochial_booth_326719"
+}
