@@ -1,0 +1,16 @@
+{
+    "engine": "bing",
+    "modifier": null,
+    "domain": "freelancer.com",
+    "limit": 50,
+    "greedy": true,
+    "fuzzy": false,
+    "start_time": "2021-11-16 22:50:08",
+    "end_time": "2021-11-16 22:50:10",
+    "duration": "1",
+    "results": {
+        "emails": [],
+        "processed": 5
+    },
+    "project": "pedantic_saha_724572"
+}

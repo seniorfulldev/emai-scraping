@@ -1,3 +1,5 @@
+# python theHarvester.py -b google -d upwork.com
+
 #### Introduction
 
 One of the most popular tools to collect email addresses and other target information during a pen test is [theHarvester](http://www.edge-security.com/theharvester.php), written by Christian Martorella [@laramies](http://twitter.com/laramies) of the [Edge-Security Group](http://www.edge-security.com/).  The source code can be found here: [https://github.com/laramies/theHarvester](https://github.com/laramies/theHarvester), but it comes with Kali by default.  Motivated by the rewrite of [metagoofil](https://github.com/opsdisk/metagoofil), I decided to rewrite theHarvester, and update the email collection portion. Currently,the DNS portion is not included.
