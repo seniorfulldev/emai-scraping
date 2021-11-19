@@ -9,10 +9,20 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.24.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "deep-email-validator": "^0.1.18",
+    "dotenv": "^10.0.0",
     "email-extractor": "^0.2.9",
+    "email-validator": "^2.0.4",
+    "express": "^4.17.1",
     "https": "^1.0.0",
     "humanoid-js": "^1.0.1",
     "node-email-extractor": "^1.0.3",
-    "request": "^2.88.2"
+    "redis": "^3.1.2",
+    "request": "^2.88.2",
+    "response-time": "^2.3.2",
+    "url-knife": "^3.1.3"
   }
 }

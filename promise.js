@@ -5,7 +5,7 @@ let humanoid = new Humanoid((autoBypass = false));
 let emailList = [];
 let count = 0;
 request(
-  "https://api.proxycrawl.com/scraper?token=iVcCNRKgIHEEX4UtIEIBgA&url=https://its-my-town-stage-t2.web.app/south-fulton-ga",
+  "https://api.proxycrawl.com/scraper?token=iVcCNRKgIHEEX4UtIEIBgA&url=hunter.io",
   function (error, response, body) {
     if (!error && response.statusCode == 200) {
       let urlList = JSON.parse(body).body.links;
@@ -33,10 +33,10 @@ const getEmailFn = function asyncMultiplyBy2(url) {
       .sendRequest(url)
       .then((res) => {
         var emails = res.body.match(
-          /([a-zA-Z0-9._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9._-]+)/gi
+          /([a-zA-Z0-9._-]+@hunter.io)/gi
         );
         if (emails) {
-   
+          console.log("email", emails);
           resolve({ email: emails, url: url });
         } else {
           resolve({});
