@@ -19,7 +19,7 @@ const app = express();
     res.json({ ...EmailValidator.validate(req.body.email) });
   });
   app.get("/api/checkEmail", async (req, res) => {
-    const result = EmailValidator.validate("wolfmaccvn199311gmcail.com");
+    const result = EmailValidator.validate("wolfman199311@gmail.com");
     console.log('result', result);
     res.json({ mail: "no email" });
   });
