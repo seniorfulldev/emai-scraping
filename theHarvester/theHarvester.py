@@ -6,6 +6,7 @@ import re
 import sys
 import threading
 import time
+import concurrent.futures
 
 # https://stackoverflow.com/questions/27981545/suppress-insecurerequestwarning-unverified-https-request-is-being-made-in-pytho#28002687
 import urllib3
@@ -60,11 +61,11 @@ class theHarvester:
 
     def __init__(self, active, data_source, domain, search_max, save_emails, delay, url_timeout, num_threads):
         """Initialize theHarvester object"""
-
+    
         self.active = active
         self.data_source = data_source.lower()
         self.domain = domain
-
+        print('search max', search_max)
         self.search_max = search_max
         if self.search_max < 100:
             self.num_max = self.search_max
@@ -83,6 +84,7 @@ class theHarvester:
     def go(self):
         # Kickoff the threadpool.
         for i in range(self.num_threads):  # noqa
+            print('self.num_threads',self.num_threads)
             thread = Worker()
             thread.daemon = True
             thread.start()
@@ -168,7 +170,7 @@ def get_timestamp():
 
 
 if __name__ == "__main__":
-
+    start = time.time()
     parser = argparse.ArgumentParser(description="A rewrite of the classic theHarvester.")
 
     data_sources = ["google"]
@@ -217,7 +219,7 @@ if __name__ == "__main__":
         help="Number of seconds to wait before timeout for unreachable/stale pages (Default: 60)",
     )
     parser.add_argument(
-        "-n", dest="num_threads", action="store", type=int, default=8, help="Number of search threads (Default: 8)"
+        "-n", dest="num_threads", action="store", type=int, default=5, help="Number of search threads (Default: 8)"
     )
 
     args = parser.parse_args()
@@ -237,5 +239,6 @@ if __name__ == "__main__":
 
     th = theHarvester(**vars(args))
     th.go()
-
+    end = time.time()
+    print("Total time taken: ", end - start)
     print("\n[+] Done!")
