@@ -7,7 +7,7 @@ import csv
 import concurrent.futures
 import threading
 import time
-MAX_THREADS = 100
+MAX_THREADS = 50
 def extract_movie_details(movie_link):
     # times.sleep(urandom.uniform(0, 0.2))
     movie_soup = BeautifulSoup(requests.get(movie_link).text, 'lxml')
@@ -19,7 +19,7 @@ def extract_movie_details(movie_link):
     
     print(title, rating)
 
-    with open('/movies.csv', mode='a') as f:
+    with open('./movies.csv', mode='a') as f:
         movie_writer = csv.writer(
             f, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         movie_writer.writerow([title, rating])
