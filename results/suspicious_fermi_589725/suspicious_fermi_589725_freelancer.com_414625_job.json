@@ -1,0 +1,18 @@
+{
+    "engine": "bing",
+    "modifier": null,
+    "domain": "freelancer.com",
+    "limit": 50,
+    "greedy": true,
+    "fuzzy": false,
+    "start_time": "2022-01-26 14:33:18",
+    "end_time": "2022-01-26 14:33:32",
+    "duration": "13",
+    "results": {
+        "emails": [
+            "support@freelancer.com"
+        ],
+        "processed": 45
+    },
+    "project": "suspicious_fermi_589725"
+}

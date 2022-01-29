@@ -1,0 +1,22 @@
+{
+    "engine": "bing",
+    "modifier": null,
+    "domain": "freelancer.com",
+    "limit": 500,
+    "greedy": true,
+    "fuzzy": false,
+    "start_time": "2022-01-26 14:35:14",
+    "end_time": "2022-01-26 14:36:26",
+    "duration": "71",
+    "results": {
+        "emails": [
+            "customer-support@freelancer.com",
+            "hello@themelbournefreelancer.com",
+            "assupport-customer@freelancer.com",
+            "support@freelancer.com",
+            "paypal@freelancer.com"
+        ],
+        "processed": 278
+    },
+    "project": "brave_nightingale_717057"
+}

@@ -1,0 +1,17 @@
+{
+    "limit": 500,
+    "modifier": null,
+    "engine": "bing",
+    "greedy": false,
+    "domain": "themelbournefreelancer.com",
+    "start_time": "2022-01-26 14:36:26",
+    "end_time": "2022-01-26 14:36:34",
+    "duration": "8",
+    "results": {
+        "emails": [
+            "hello@themelbournefreelancer.com"
+        ],
+        "processed": 52
+    },
+    "project": "brave_nightingale_717057"
+}

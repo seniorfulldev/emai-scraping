@@ -1,0 +1,16 @@
+{
+    "engine": "bing",
+    "modifier": null,
+    "domain": "freelancer.com",
+    "limit": 50,
+    "greedy": true,
+    "fuzzy": false,
+    "start_time": "2022-01-26 13:38:14",
+    "end_time": "2022-01-26 13:38:29",
+    "duration": "14",
+    "results": {
+        "emails": [],
+        "processed": 48
+    },
+    "project": "hungry_archimedes_862610"
+}

@@ -1,0 +1,17 @@
+{
+    "limit": 300,
+    "modifier": null,
+    "engine": "bing",
+    "greedy": false,
+    "domain": "themelbournefreelancer.com",
+    "start_time": "2022-01-26 14:42:05",
+    "end_time": "2022-01-26 14:42:11",
+    "duration": "6",
+    "results": {
+        "emails": [
+            "hello@themelbournefreelancer.com"
+        ],
+        "processed": 32
+    },
+    "project": "awesome_haibt_467868"
+}

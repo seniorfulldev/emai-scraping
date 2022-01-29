@@ -1,0 +1,18 @@
+{
+    "engine": "bing",
+    "modifier": null,
+    "domain": "freelancer.com",
+    "limit": 50,
+    "greedy": true,
+    "fuzzy": false,
+    "start_time": "2022-01-26 14:28:29",
+    "end_time": "2022-01-26 14:28:41",
+    "duration": "11",
+    "results": {
+        "emails": [
+            "cx.ios@freelancer.com"
+        ],
+        "processed": 41
+    },
+    "project": "admiring_mccarthy_908399"
+}
