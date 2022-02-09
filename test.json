@@ -1,0 +1,17 @@
+{
+  "remaining_requests": 325,
+  "original_status": 200,
+  "pc_status": 200,
+  "url": "https://www.sportsmansguide.com/productlist?k=walther-ppk",
+  "body": {
+    "alert": "A generic web scraper has been selected. Please contact support if you require a more detailed scraper for your given URL.",
+    "title": "Just a moment...",
+    "favicon": null,
+    "meta": { "description": "", "keywords": "" },
+    "content": "Please enable Cookies and reload the page.This process is automatic. Your browser will redirect to your requested content shortly.Please allow up to 5 seconds….Redirecting….",
+    "canonical": null,
+    "images": [],
+    "og_images": [],
+    "links": ["https://www.cloudflare.com/5xx-error-landing/"]
+  }
+}
