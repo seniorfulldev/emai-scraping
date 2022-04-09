@@ -31,7 +31,7 @@ class MidwayusaScraper:
  
     def scrapTopic(self,url):
         driver  = webdriver.Chrome(ChromeDriverManager().install())
-        driver.maximize_window()
+        # driver.maximize_window()
  
         # Url
         driver.get(url)
