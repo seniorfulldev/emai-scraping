@@ -1,17 +1,56 @@
 {
-  "remaining_requests": 325,
-  "original_status": 200,
-  "pc_status": 200,
-  "url": "https://www.sportsmansguide.com/productlist?k=walther-ppk",
-  "body": {
-    "alert": "A generic web scraper has been selected. Please contact support if you require a more detailed scraper for your given URL.",
-    "title": "Just a moment...",
-    "favicon": null,
-    "meta": { "description": "", "keywords": "" },
-    "content": "Please enable Cookies and reload the page.This process is automatic. Your browser will redirect to your requested content shortly.Please allow up to 5 seconds….Redirecting….",
-    "canonical": null,
-    "images": [],
-    "og_images": [],
-    "links": ["https://www.cloudflare.com/5xx-error-landing/"]
-  }
+    "remaining_requests": 930,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.midwayusa.com/product/1022593495?pid=746664",
+    "body": {
+        "alert": "A generic web scraper has been selected. Please contact support if you require a more detailed scraper for \u000d\u000ayour given URL.",
+        "title": "Agency Arms Mid Line Barrel Sig P320 Compact 9mm Luger SS",
+        "favicon": "https://media.mwstatic.com/images/pagespecific/favicons/favicon-196x196.png",
+        "meta": {
+            "description": "The Agency Arms Mid Line Barrel is made from the highest quality materials including 416R stainless steel. They feature a 1 in 10\u0026quot; twist and are...",
+            "keywords": ""
+        },
+        "content": "We use cookies to give you the best possible experience. You can learn more about the cookies we use and why we use them by viewing our Privacy Policy . By continuing to use our site, you accept our use of cookies.Accept \u0026 Close.Clear Search Field.Shop All.Featured Ammunition.",
+        "canonical": "https://www.midwayusa.com/product/1022593495",
+        "images": [
+            "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+            "https://media.mwstatic.com/images/header/midwayusa-logo-v2.svg",
+            "https://media.mwstatic.com/external/fonts/fontawesome/svg/search-mwblue.svg",
+            "https://media.mwstatic.com/external/fonts/fontawesome/svg/account-sign-in-blue.svg",
+            "https://media.mwstatic.com/external/fonts/fontawesome/svg/chevron-down-mwblue.svg",
+            "https://media.mwstatic.com/external/fonts/fontawesome/svg/cart-blue-two.svg",
+            "https://media.mwstatic.com/external/fonts/fontawesome/svg/chevron-down-black.svg"
+        ],
+        "og_images": ["https://media.mwstatic.com/product-images/src/primary/746/746664.jpg"],
+        "links": [
+            "https://www.midwayusa.com/help/midwayusa-privacy-notice",
+            "https://www.midwayusa.com/product/1022593495?pid=746664#nav",
+            "https://www.midwayusa.com/product/1022593495?pid=746664#content",
+            "https://www.midwayusa.com/product/1022593495?pid=746664#footer",
+            "https://www.midwayusa.com",
+            "https://www.midwayusa.com/account/profile",
+            "https://www.midwayusa.com/account/authentication",
+            "https://www.midwayusa.com/account/createaccount",
+            "https://www.midwayusa.com/ordermanagement",
+            "https://www.midwayusa.com/wishList",
+            "https://www.midwayusa.com/account/personal-interests",
+            "https://www.midwayusa.com/account/account/accountnotifications",
+            "https://www.midwayusa.com/help",
+            "https://www.midwayusa.com/cart",
+            "https://www.midwayusa.com/cart/shippingrateinfo",
+            "https://www.enable-javascript.com/",
+            "https://www.midwayusa.com/gun-parts/c?cid=23011",
+            "https://www.midwayusa.com/handgun-parts/br?cid=23855",
+            "https://www.midwayusa.com/handgun-barrels/br?cid=23870",
+            "https://www.midwayusa.com/site-map",
+            "https://www.midwayusa.com/new-arrivals",
+            "https://www.midwayusa.com/freeshipping",
+            "https://www.midwayusa.com/sale-and-clearance",
+            "https://www.midwayusa.com/brand",
+            "https://www.midwayusa.com/rebate",
+            "https://www.midwayusa.com/buy-guns-online",
+            "https://www.midwayusa.com/fishing/c?cid=23889"
+        ]
+    }
 }

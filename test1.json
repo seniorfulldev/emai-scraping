@@ -1,0 +1,762 @@
+{
+  "searchResult": {
+    "categories": {
+      "options": [
+        { "id": "23870", "name": "Handgun Barrels", "productCount": 17 }
+      ],
+      "parents": [],
+      "selected": "",
+      "children": ["23870"],
+      "title": "",
+      "header": "",
+      "description": ""
+    },
+    "categoryId": null,
+    "count": 17,
+    "filterGroups": [
+      {
+        "name": "Type",
+        "filters": [
+          { "id": "Type:Grip", "name": "Grip", "productCount": 35 },
+          { "id": "Type:Barrel", "name": "Barrel", "productCount": 32 },
+          { "id": "Type:Sight Set", "name": "Sight Set", "productCount": 18 },
+          { "id": "Type:Magazine", "name": "Magazine", "productCount": 16 },
+          {
+            "id": "Type:Magazine Base Pad",
+            "name": "Magazine Base Pad",
+            "productCount": 16
+          },
+          { "id": "Type:Slide", "name": "Slide", "productCount": 13 },
+          {
+            "id": "Type:Front Sight",
+            "name": "Front Sight",
+            "productCount": 8
+          },
+          {
+            "id": "Type:Conversion Kit",
+            "name": "Conversion Kit",
+            "productCount": 7
+          },
+          {
+            "id": "Type:Magazine Release",
+            "name": "Magazine Release",
+            "productCount": 5
+          },
+          { "id": "Type:Trigger", "name": "Trigger", "productCount": 5 },
+          {
+            "id": "Type:Compensator",
+            "name": "Compensator",
+            "productCount": 4
+          },
+          { "id": "Type:Grip Tape", "name": "Grip Tape", "productCount": 3 },
+          {
+            "id": "Type:Handgun Sight Set",
+            "name": "Handgun Sight Set",
+            "productCount": 3
+          },
+          {
+            "id": "Type:Adaptive Carbine Platform",
+            "name": "Adaptive Carbine Platform",
+            "productCount": 2
+          },
+          {
+            "id": "Type:Magazine Floorplate",
+            "name": "Magazine Floorplate",
+            "productCount": 2
+          },
+          { "id": "Type:Magwell", "name": "Magwell", "productCount": 2 },
+          { "id": "Type:Rear Sight", "name": "Rear Sight", "productCount": 2 },
+          {
+            "id": "Type:Slide Release",
+            "name": "Slide Release",
+            "productCount": 2
+          },
+          {
+            "id": "Type:Buttplates & Buttplate Parts",
+            "name": "Buttplates & Buttplate Parts",
+            "productCount": 1
+          },
+          { "id": "Type:Extractor", "name": "Extractor", "productCount": 1 },
+          { "id": "Type:Guide Rod", "name": "Guide Rod", "productCount": 1 },
+          {
+            "id": "Type:Guide Rod and Recoil Spring",
+            "name": "Guide Rod and Recoil Spring",
+            "productCount": 1
+          },
+          {
+            "id": "Type:Magazine Adapter",
+            "name": "Magazine Adapter",
+            "productCount": 1
+          },
+          { "id": "Type:Sight", "name": "Sight", "productCount": 1 }
+        ]
+      },
+      {
+        "name": "Brand",
+        "filters": [
+          { "id": "Brand:Sig Sauer", "name": "Sig Sauer", "productCount": 5 },
+          {
+            "id": "Brand:Agency Arms",
+            "name": "Agency Arms",
+            "productCount": 4
+          },
+          { "id": "Brand:Faxon", "name": "Faxon", "productCount": 2 },
+          {
+            "id": "Brand:Grey Ghost Precision",
+            "name": "Grey Ghost Precision",
+            "productCount": 2
+          },
+          { "id": "Brand:Rival Arms", "name": "Rival Arms", "productCount": 2 },
+          {
+            "id": "Brand:Griffin Armament",
+            "name": "Griffin Armament",
+            "productCount": 1
+          },
+          { "id": "Brand:Polymer80", "name": "Polymer80", "productCount": 1 }
+        ]
+      },
+      {
+        "name": "Color",
+        "filters": [
+          { "id": "Color:Black", "name": "Black", "productCount": 7 },
+          { "id": "Color:Stainless", "name": "Stainless", "productCount": 5 },
+          { "id": "Color:Gold", "name": "Gold", "productCount": 2 },
+          { "id": "Color:Chameleon", "name": "Chameleon", "productCount": 1 }
+        ]
+      },
+      {
+        "name": "Cartridge",
+        "filters": [
+          {
+            "id": "Cartridge:9mm Luger",
+            "name": "9mm Luger",
+            "productCount": 16
+          }
+        ]
+      },
+      {
+        "name": "Availability",
+        "filters": [
+          {
+            "id": "Availability:Available",
+            "name": "Available",
+            "productCount": 14
+          },
+          {
+            "id": "Availability:Out of Stock, No Backorder",
+            "name": "Out of Stock, No Backorder",
+            "productCount": 2
+          },
+          {
+            "id": "Availability:Coming Soon",
+            "name": "Coming Soon",
+            "productCount": 1
+          }
+        ]
+      },
+      {
+        "name": "Compatible Make",
+        "filters": [
+          {
+            "id": "Compatible Make:Sig Sauer",
+            "name": "Sig Sauer",
+            "productCount": 32
+          }
+        ]
+      },
+      {
+        "name": "Compatible Model",
+        "filters": [
+          {
+            "id": "Compatible Model:Sig Sauer P320",
+            "name": "Sig Sauer P320",
+            "productCount": 32
+          },
+          {
+            "id": "Compatible Model:Sig Sauer P365",
+            "name": "Sig Sauer P365",
+            "productCount": 20
+          },
+          {
+            "id": "Compatible Model:Sig Sauer P320 Compact",
+            "name": "Sig Sauer P320 Compact",
+            "productCount": 18
+          },
+          {
+            "id": "Compatible Model:Sig Sauer P365 XL",
+            "name": "Sig Sauer P365 XL",
+            "productCount": 8
+          },
+          {
+            "id": "Compatible Model:Sig Sauer P320 Carry",
+            "name": "Sig Sauer P320 Carry",
+            "productCount": 6
+          },
+          {
+            "id": "Compatible Model:Sig Sauer P226",
+            "name": "Sig Sauer P226",
+            "productCount": 5
+          },
+          {
+            "id": "Compatible Model:Sig Sauer P229",
+            "name": "Sig Sauer P229",
+            "productCount": 5
+          },
+          {
+            "id": "Compatible Model:Sig Sauer P320 Sub Compact",
+            "name": "Sig Sauer P320 Sub Compact",
+            "productCount": 4
+          },
+          {
+            "id": "Compatible Model:Sig Sauer P250",
+            "name": "Sig Sauer P250",
+            "productCount": 3
+          },
+          {
+            "id": "Compatible Model:Sig Sauer 2022",
+            "name": "Sig Sauer 2022",
+            "productCount": 1
+          },
+          {
+            "id": "Compatible Model:Sig Sauer P220",
+            "name": "Sig Sauer P220",
+            "productCount": 1
+          },
+          {
+            "id": "Compatible Model:Sig Sauer P250 Sub Compact",
+            "name": "Sig Sauer P250 Sub Compact",
+            "productCount": 1
+          },
+          {
+            "id": "Compatible Model:Sig Sauer P938",
+            "name": "Sig Sauer P938",
+            "productCount": 1
+          },
+          {
+            "id": "Compatible Model:Sig Sauer SP2340",
+            "name": "Sig Sauer SP2340",
+            "productCount": 1
+          }
+        ]
+      }
+    ],
+    "salesEvent": null,
+    "filters": [
+      "Compatible Make:Sig Sauer",
+      "Compatible Model:Sig Sauer P320",
+      "Type:Barrel"
+    ],
+    "gunGroupId": null,
+    "holster": null,
+    "max": "",
+    "min": "",
+    "page": 1,
+    "products": [
+      {
+        "description": "Griffin Armament ATM Barrel Sig P320 9mm Luger Full Size 1/2\"-28 Threaded with Micro Carry Compensator Stainless Steel Nitride",
+        "imagePath": "575/575995.jpg",
+        "familyId": "1021519158",
+        "id": "575995",
+        "banner": "",
+        "colorCount": 0,
+        "isFamily": false,
+        "link": "/product/1021519158?pid=575995",
+        "prices": {
+          "listPrice": { "low": "195.95", "high": "195.95", "text": "" },
+          "ourPrice": { "low": "186.00", "high": "186.00", "text": "" },
+          "discountPrice": { "low": null, "high": null, "text": "" },
+          "pricePerUnit": "",
+          "savings": { "title": "", "amount": "", "description": "" },
+          "freeShipping": false
+        },
+        "promoLink": "",
+        "rebateLink": "",
+        "shipping": { "isFree": false, "message": "", "qualifier": "" },
+        "status": "Available",
+        "swatches": [],
+        "sku": "GAP320FTB",
+        "upc": "791154083390"
+      },
+      {
+        "description": "Agency Arms Mid Line Barrel Sig P320 Compact 9mm Luger 1/2\"-28 Thread Stainless Steel",
+        "imagePath": "808/808652.jpg",
+        "familyId": "1022593553",
+        "id": "808652",
+        "banner": "",
+        "colorCount": 3,
+        "isFamily": false,
+        "link": "/product/1022593553?pid=808652",
+        "prices": {
+          "listPrice": { "low": null, "high": null, "text": "" },
+          "ourPrice": { "low": "210.00", "high": "210.00", "text": "" },
+          "discountPrice": { "low": null, "high": null, "text": "" },
+          "pricePerUnit": "",
+          "savings": { "title": "", "amount": "", "description": "" },
+          "freeShipping": false
+        },
+        "promoLink": "",
+        "rebateLink": "",
+        "shipping": { "isFree": false, "message": "", "qualifier": "" },
+        "status": "Available",
+        "swatches": [],
+        "sku": "ML320CT/FSS",
+        "upc": null
+      },
+      {
+        "description": "Sig Sauer Barrel P320, P250 Full Size Steel Black",
+        "imagePath": "855/855992.jpg",
+        "familyId": "1017777616",
+        "id": "855992",
+        "banner": "",
+        "colorCount": 1,
+        "isFamily": false,
+        "link": "/product/1017777616?pid=855992",
+        "prices": {
+          "listPrice": { "low": "179.99", "high": "179.99", "text": "" },
+          "ourPrice": { "low": "139.99", "high": "169.99", "text": "" },
+          "discountPrice": { "low": null, "high": null, "text": "" },
+          "pricePerUnit": "",
+          "savings": { "title": "", "amount": "", "description": "" },
+          "freeShipping": false
+        },
+        "promoLink": "",
+        "rebateLink": "",
+        "shipping": { "isFree": false, "message": "", "qualifier": "" },
+        "status": "Available",
+        "swatches": [],
+        "sku": "BBL-MOD-F-9",
+        "upc": "798681538324"
+      },
+      {
+        "description": "Agency Arms Premier Line Barrel Sig P320 Compact 9mm Luger 1/2\"-28 Thread Stainless Steel",
+        "imagePath": "338/338477.jpg",
+        "familyId": "1022594132",
+        "id": "338477",
+        "banner": "",
+        "colorCount": 3,
+        "isFamily": false,
+        "link": "/product/1022594132?pid=338477",
+        "prices": {
+          "listPrice": { "low": null, "high": null, "text": "" },
+          "ourPrice": { "low": "310.00", "high": "310.00", "text": "" },
+          "discountPrice": { "low": null, "high": null, "text": "" },
+          "pricePerUnit": "",
+          "savings": { "title": "", "amount": "", "description": "" },
+          "freeShipping": false
+        },
+        "promoLink": "",
+        "rebateLink": "",
+        "shipping": { "isFree": false, "message": "", "qualifier": "" },
+        "status": "Available",
+        "swatches": [],
+        "sku": "PL320CT/FSS",
+        "upc": null
+      },
+      {
+        "description": "Agency Arms Premier Line Barrel Sig P320 Compact 9mm Luger Stainless Steel",
+        "imagePath": "819/819432.jpg",
+        "familyId": "1022594024",
+        "id": "819432",
+        "banner": "",
+        "colorCount": 3,
+        "isFamily": false,
+        "link": "/product/1022594024?pid=819432",
+        "prices": {
+          "listPrice": { "low": null, "high": null, "text": "" },
+          "ourPrice": { "low": "300.00", "high": "300.00", "text": "" },
+          "discountPrice": { "low": null, "high": null, "text": "" },
+          "pricePerUnit": "",
+          "savings": { "title": "", "amount": "", "description": "" },
+          "freeShipping": false
+        },
+        "promoLink": "",
+        "rebateLink": "",
+        "shipping": { "isFree": false, "message": "", "qualifier": "" },
+        "status": "Available",
+        "swatches": [],
+        "sku": "PL320CNTSS",
+        "upc": null
+      },
+      {
+        "description": "Agency Arms Mid Line Barrel Sig P320 Compact 9mm Luger Stainless Steel",
+        "imagePath": "746/746664.jpg",
+        "familyId": "1022593495",
+        "id": "746664",
+        "banner": "",
+        "colorCount": 3,
+        "isFamily": false,
+        "link": "/product/1022593495?pid=746664",
+        "prices": {
+          "listPrice": { "low": null, "high": null, "text": "" },
+          "ourPrice": { "low": "200.00", "high": "200.00", "text": "" },
+          "discountPrice": { "low": null, "high": null, "text": "" },
+          "pricePerUnit": "",
+          "savings": { "title": "", "amount": "", "description": "" },
+          "freeShipping": false
+        },
+        "promoLink": "",
+        "rebateLink": "",
+        "shipping": { "isFree": false, "message": "", "qualifier": "" },
+        "status": "Available",
+        "swatches": [],
+        "sku": "ML320CNTSS",
+        "upc": null
+      },
+      {
+        "description": "Faxon Match Series Barrel Sig P320 Full Size 9mm Luger 1 in 10\" Twist Flame Fluted 1/2\"-28 Thread Stainless Steel",
+        "imagePath": "836/836374.jpg",
+        "familyId": "102508068",
+        "id": "836374",
+        "banner": "New Arrival",
+        "colorCount": 3,
+        "isFamily": false,
+        "link": "/product/102508068?pid=836374",
+        "prices": {
+          "listPrice": { "low": "215.00", "high": "235.00", "text": "" },
+          "ourPrice": { "low": "204.25", "high": "223.25", "text": "" },
+          "discountPrice": { "low": null, "high": null, "text": "" },
+          "pricePerUnit": "",
+          "savings": { "title": "", "amount": "", "description": "" },
+          "freeShipping": false
+        },
+        "promoLink": "",
+        "rebateLink": "",
+        "shipping": { "isFree": false, "message": "", "qualifier": "" },
+        "status": "Available",
+        "swatches": [],
+        "sku": "320B910NFLOQ-T",
+        "upc": "816341023017"
+      },
+      {
+        "description": "Faxon Match Series Barrel Sig P320 Full Size 9mm Luger 1 in 10\" Twist Flame Fluted Stainless Steel",
+        "imagePath": "778/778687.jpg",
+        "familyId": "102508029",
+        "id": "778687",
+        "banner": "New Arrival",
+        "colorCount": 3,
+        "isFamily": false,
+        "link": "/product/102508029?pid=778687",
+        "prices": {
+          "listPrice": { "low": "205.00", "high": "225.00", "text": "" },
+          "ourPrice": { "low": "194.75", "high": "213.75", "text": "" },
+          "discountPrice": { "low": null, "high": null, "text": "" },
+          "pricePerUnit": "",
+          "savings": { "title": "", "amount": "", "description": "" },
+          "freeShipping": false
+        },
+        "promoLink": "",
+        "rebateLink": "",
+        "shipping": { "isFree": false, "message": "", "qualifier": "" },
+        "status": "Available",
+        "swatches": [
+          {
+            "isImage": true,
+            "name": "Chameleon",
+            "saleItemId": "778687",
+            "type": 2,
+            "value": "108/Chameleon.jpg"
+          },
+          {
+            "isImage": false,
+            "name": "Gold",
+            "saleItemId": "778687",
+            "type": 5,
+            "value": "#FFD700"
+          }
+        ],
+        "sku": "320B910NFLOQ-N-NCR",
+        "upc": "816341023772"
+      },
+      {
+        "description": "Rival Arms Barrel Sig P320 Full Size 9mm Luger Spiral Fluted Stainless Steel",
+        "imagePath": "354/354935.jpg",
+        "familyId": "1023602897",
+        "id": "354935",
+        "banner": "",
+        "colorCount": 2,
+        "isFamily": false,
+        "link": "/product/1023602897?pid=354935",
+        "prices": {
+          "listPrice": { "low": "236.99", "high": "236.99", "text": "" },
+          "ourPrice": { "low": "199.99", "high": "199.99", "text": "" },
+          "discountPrice": { "low": null, "high": null, "text": "" },
+          "pricePerUnit": "",
+          "savings": { "title": "", "amount": "", "description": "" },
+          "freeShipping": false
+        },
+        "promoLink": "",
+        "rebateLink": "",
+        "shipping": { "isFree": false, "message": "", "qualifier": "" },
+        "status": "Available",
+        "swatches": [
+          {
+            "isImage": false,
+            "name": "Gold",
+            "saleItemId": "354935",
+            "type": 5,
+            "value": "#FFD700"
+          },
+          {
+            "isImage": false,
+            "name": "Black",
+            "saleItemId": "354935",
+            "type": 5,
+            "value": "#000000"
+          }
+        ],
+        "sku": "RA-RA20P401E",
+        "upc": "788130031513"
+      },
+      {
+        "description": "Sig Sauer Barrel P320 Full Size 9mm Luger 4.7\" Gold",
+        "imagePath": "371/371970.jpg",
+        "familyId": "102446662",
+        "id": "371970",
+        "banner": "",
+        "colorCount": 1,
+        "isFamily": false,
+        "link": "/product/102446662?pid=371970",
+        "prices": {
+          "listPrice": { "low": "229.99", "high": "229.99", "text": "" },
+          "ourPrice": { "low": "199.99", "high": "199.99", "text": "" },
+          "discountPrice": { "low": null, "high": null, "text": "" },
+          "pricePerUnit": "",
+          "savings": { "title": "", "amount": "", "description": "" },
+          "freeShipping": false
+        },
+        "promoLink": "",
+        "rebateLink": "",
+        "shipping": { "isFree": false, "message": "", "qualifier": "" },
+        "status": "Available",
+        "swatches": [],
+        "sku": "8900791",
+        "upc": "798682659950"
+      },
+      {
+        "description": "Sig Sauer Barrel P320 X-Five",
+        "imagePath": "699/694662.jpg",
+        "familyId": "102431734",
+        "id": "699662",
+        "banner": "New Arrival",
+        "colorCount": 1,
+        "isFamily": false,
+        "link": "/product/102431734?pid=699662",
+        "prices": {
+          "listPrice": { "low": "269.99", "high": "269.99", "text": "" },
+          "ourPrice": { "low": "224.99", "high": "224.99", "text": "" },
+          "discountPrice": { "low": null, "high": null, "text": "" },
+          "pricePerUnit": "",
+          "savings": { "title": "", "amount": "", "description": "" },
+          "freeShipping": false
+        },
+        "promoLink": "",
+        "rebateLink": "",
+        "shipping": { "isFree": false, "message": "", "qualifier": "" },
+        "status": "Available",
+        "swatches": [],
+        "sku": "1303060-02-R",
+        "upc": "798681642687"
+      },
+      {
+        "description": "Grey Ghost Precision Barrel Sig P320 Full Size 9mm Luger Stainless Steel Nitride",
+        "imagePath": "686/686249.jpg",
+        "familyId": "1024699118",
+        "id": "686249",
+        "banner": "",
+        "colorCount": 1,
+        "isFamily": false,
+        "link": "/product/1024699118?pid=686249",
+        "prices": {
+          "listPrice": { "low": "184.99", "high": "184.99", "text": "" },
+          "ourPrice": { "low": "177.59", "high": "177.59", "text": "" },
+          "discountPrice": { "low": null, "high": null, "text": "" },
+          "pricePerUnit": "",
+          "savings": { "title": "", "amount": "", "description": "" },
+          "freeShipping": false
+        },
+        "promoLink": "",
+        "rebateLink": "",
+        "shipping": { "isFree": false, "message": "", "qualifier": "" },
+        "status": "Available",
+        "swatches": [],
+        "sku": "BARREL-P320-F-NT-BN",
+        "upc": "850013536160"
+      },
+      {
+        "description": "Rival Arms Barrel Sig P320 X5 9mm Luger Spiral Fluted Stainless Steel",
+        "imagePath": "679/679600.jpg",
+        "familyId": "1023603048",
+        "id": "679600",
+        "banner": "",
+        "colorCount": 2,
+        "isFamily": false,
+        "link": "/product/1023603048?pid=679600",
+        "prices": {
+          "listPrice": { "low": "236.99", "high": "236.99", "text": "" },
+          "ourPrice": { "low": "199.99", "high": "199.99", "text": "" },
+          "discountPrice": { "low": null, "high": null, "text": "" },
+          "pricePerUnit": "",
+          "savings": { "title": "", "amount": "", "description": "" },
+          "freeShipping": false
+        },
+        "promoLink": "",
+        "rebateLink": "",
+        "shipping": { "isFree": false, "message": "", "qualifier": "" },
+        "status": "Available",
+        "swatches": [
+          {
+            "isImage": false,
+            "name": "Black",
+            "saleItemId": "679600",
+            "type": 5,
+            "value": "#000000"
+          },
+          {
+            "isImage": false,
+            "name": "Gold",
+            "saleItemId": "679600",
+            "type": 5,
+            "value": "#FFD700"
+          }
+        ],
+        "sku": "RA-RA20P501A",
+        "upc": "788130031520"
+      },
+      {
+        "description": "Polymer80 Barrel Sig P320 Full Size 9mm Luger Stainless Steel",
+        "imagePath": "103/103234.jpg",
+        "familyId": "1024421681",
+        "id": "103234",
+        "banner": "",
+        "colorCount": 1,
+        "isFamily": false,
+        "link": "/product/1024421681?pid=103234",
+        "prices": {
+          "listPrice": { "low": "159.00", "high": "159.00", "text": "" },
+          "ourPrice": { "low": "129.00", "high": "129.00", "text": "" },
+          "discountPrice": { "low": null, "high": null, "text": "" },
+          "pricePerUnit": "",
+          "savings": { "title": "", "amount": "", "description": "" },
+          "freeShipping": false
+        },
+        "promoLink": "",
+        "rebateLink": "",
+        "shipping": { "isFree": false, "message": "", "qualifier": "" },
+        "status": "Available",
+        "swatches": [],
+        "sku": "P80-PF320-F-SS",
+        "upc": "819925023458"
+      },
+      {
+        "description": "Sig Sauer Barrel Sig P320 Full Size 9mm Luger 5.5\" 13.5mm LH Thread Steel Black",
+        "imagePath": "891/891639.jpg",
+        "familyId": "1023111692",
+        "id": "891639",
+        "banner": "",
+        "colorCount": 0,
+        "isFamily": false,
+        "link": "/product/1023111692?pid=891639",
+        "prices": {
+          "listPrice": { "low": "229.99", "high": "229.99", "text": "" },
+          "ourPrice": { "low": "179.99", "high": "179.99", "text": "" },
+          "discountPrice": { "low": null, "high": null, "text": "" },
+          "pricePerUnit": "",
+          "savings": { "title": "", "amount": "", "description": "" },
+          "freeShipping": false
+        },
+        "promoLink": "",
+        "rebateLink": "",
+        "shipping": { "isFree": false, "message": "", "qualifier": "" },
+        "status": "Out of Stock, No Backorder",
+        "swatches": [
+          {
+            "isImage": true,
+            "name": "Matte Black",
+            "saleItemId": "891639",
+            "type": 2,
+            "value": "008/Matte Black - Finish.jpg"
+          }
+        ],
+        "sku": "8900315",
+        "upc": "798681635429"
+      },
+      {
+        "description": "Sig Sauer Barrel Sig P320 Full Size 9mm Luger 5.5\" 1/2\"-28 Thread Steel Black",
+        "imagePath": "399/399885.jpg",
+        "familyId": "1023111736",
+        "id": "399885",
+        "banner": "",
+        "colorCount": 1,
+        "isFamily": false,
+        "link": "/product/1023111736?pid=399885",
+        "prices": {
+          "listPrice": { "low": "229.99", "high": "229.99", "text": "" },
+          "ourPrice": { "low": "199.99", "high": "199.99", "text": "" },
+          "discountPrice": { "low": null, "high": null, "text": "" },
+          "pricePerUnit": "",
+          "savings": { "title": "", "amount": "", "description": "" },
+          "freeShipping": false
+        },
+        "promoLink": "",
+        "rebateLink": "",
+        "shipping": { "isFree": false, "message": "", "qualifier": "" },
+        "status": "Out of Stock, No Backorder",
+        "swatches": [
+          {
+            "isImage": false,
+            "name": "Black",
+            "saleItemId": "399885",
+            "type": 5,
+            "value": "#000000"
+          }
+        ],
+        "sku": "8900443",
+        "upc": "798681643318"
+      },
+      {
+        "description": "Grey Ghost Precision Barrel Sig P320 Full Size 9mm Luger 1/2\"-28 Thread Stainless Steel Nitride",
+        "imagePath": "287/287138.jpg",
+        "familyId": "1024699269",
+        "id": "287138",
+        "banner": "",
+        "colorCount": 1,
+        "isFamily": false,
+        "link": "/product/1024699269?pid=287138",
+        "prices": {
+          "listPrice": { "low": "194.99", "high": "194.99", "text": "" },
+          "ourPrice": { "low": "187.19", "high": "187.19", "text": "" },
+          "discountPrice": { "low": null, "high": null, "text": "" },
+          "pricePerUnit": "",
+          "savings": { "title": "", "amount": "", "description": "" },
+          "freeShipping": false
+        },
+        "promoLink": "",
+        "rebateLink": "",
+        "shipping": { "isFree": false, "message": "", "qualifier": "" },
+        "status": "Coming Soon",
+        "swatches": [],
+        "sku": "BARREL-P320-F-T-BN",
+        "upc": "850013536153"
+      }
+    ],
+    "promotion": { "title": "", "id": null },
+    "ratings": {
+      "selected": 0,
+      "options": [
+        { "rating": 4, "count": 3 },
+        { "rating": 3, "count": 3 },
+        { "rating": 2, "count": 3 },
+        { "rating": 1, "count": 3 }
+      ]
+    },
+    "searchTerm": "",
+    "heading": "",
+    "brandBanner": null
+  },
+  "tracking": {
+    "queryIndex": "p_product",
+    "appId": "UQIWQHWTGQ",
+    "apiKey": "27a44572ff6e5ad2805c968354d26e79",
+    "queryId": "94973376e3c2fcd9833852df9ad3b35c"
+  }
+}
