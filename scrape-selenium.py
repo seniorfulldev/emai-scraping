@@ -23,6 +23,5 @@ for i in range(len(company)):
 data['company'] = company_
 
 data.to_csv('results/Job List.csv',index=False)
-data
 
 driver.close()

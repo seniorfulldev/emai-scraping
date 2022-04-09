@@ -1,27 +1,18 @@
 # from urllib.request import urlopen
 import re
-from time import sleep
 import requests
-from lxml.html import parse
 from bs4 import BeautifulSoup
 import concurrent.futures
-import urllib.parse
 import json
 
-import os
-from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup as bs
 from lxml import html
-from selenium import webdriver
 from selenium.webdriver.common.by import By
+
+from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
  
-# get your user key from LambdaTest platform and import using environment variables
-# username = os.environ.get("LT_USERNAME")
-# access_key = os.environ.get("LT_ACCESS_KEY")
- 
-# Username and Access Key assigned as String variables
-username = "wolfman199311@gmail.com"
-access_key = "qh6Q2M7fetERX1wv7mGOrldGOWmu3ejwPyzTpJ7bdSXZk3iaIl"
+
 # URL TO SCRAP
 make = "Sig Sauer"
 model = "P320"
@@ -32,27 +23,15 @@ print(url1)
 
 class MidwayusaScraper:
     # Generate capabilities from here: https://www.lambdatest.com/capabilities-generator/
-    def setUp(self):
-        capabilities = {
-                "build" : "midwayusa",
-                "name" : "gun parts",
-                "platform" : "Windows 10",
-                "browserName" : "Chrome",
-                "version" : "100.0",
-                "selenium_version" : "4.1.2",
-                "geoLocation" : "US",
-                "chrome.driver" : "100.0",
-                "headless" : True
-            }
-        self.driver = webdriver.Remote(
-           command_executor="https://{}:{}@hub.lambdatest.com/wd/hub".format(username, access_key),
-           desired_capabilities= capabilities)
- 
+   
+        
     def tearDown(self):
-        self.driver.quit()
+        self.driver.close()
+    
  
     def scrapTopic(self,url):
-        driver = self.driver
+        driver  = webdriver.Chrome(ChromeDriverManager().install())
+        driver.maximize_window()
  
         # Url
         driver.get(url)
@@ -98,7 +77,6 @@ def getInfo(item):
     print(url)
     # htmldata = getdata(link) 
     obj = MidwayusaScraper()
-    obj.setUp()
     print(obj.scrapTopic(url))
     obj.tearDown()
 
